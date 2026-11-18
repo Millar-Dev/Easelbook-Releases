@@ -1,1 +1,1 @@
-# ArtFlow-Releases
+# Easelbook-Releases
